@@ -33,6 +33,7 @@ export default function Page() {
                 <li>1º - Voador dorsal - 2 à 5x 8 à 12</li>
                 <li>2º - Calf Twin - 1-2x 20 à 40</li>
                 <li>3º - Bíceps Twin - 2 à 4x 8 à 12 (2x para ir na rua)</li>
+                <li>4º - Pendurar (2 mãos, sem forçar) - 3-4x 20-30 seg</li>
               </ul>
             </li>
           </ul>

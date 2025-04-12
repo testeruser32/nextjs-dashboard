@@ -47,16 +47,15 @@ export default function Page() {
             <li>1- Step up 3 - 4x 15 - (12)</li>          
             <li>2- Adultores 3 - (4)x (8) à 12 reps/seg</li>
             <li>3- Abdultores 3 - (4)x (8) à 12 reps</li>
-            <li>4- Flexão com joelho 1x 15 à 20</li>
+            <li>4- Plank 3 - (4)x (30) - 45 seg</li>
+            <li>5- Back push up 3 - (4)x (30) - 45 seg</li> 
             <li>
               Opcional:
-              <ul>
-                <li>5- Voador dorsal (2) à 5x 5 à 10</li>
-                <li>6- Pendurar 3 - 4x 20 - 30 seg</li>
-
-                <li>7- plank (3) à 4x 20 - (30) seg (Resfriado)</li>
+              <ul>                          
+              <li>6- Calf Twin 2 - (3)x 40 - (60)</li>
+              <li>7- Pendurar 3 - 4x 20 - 30 seg</li>
               </ul>
-            </li>
+            </li>       
           </ul>
         </li>
 
@@ -66,16 +65,16 @@ export default function Page() {
           <strong>Quarta:</strong>
           <ul>
             <li>1° Alongamento (Full body, Hamstring [1 à 5x 15 - 30 seg])</li>
-            <li>1- Step up 3 - 4x 15 - (12)</li>
-            <li>2- Sumô 3 - 4x 8 à 12</li>          
-            <li>3- Twin Bíceps 4x12 | 4 - (6) - 8 kg</li>
-            <li>4- Elevação lateral (3) - 4x 8 à 12 | 4 - (6) - 8 kg</li>          
-            <li>5- Pendurar 3 - 4x 20 - 30 seg</li>
+            <li>1- Step up 3 - 4x 15 - (12)</li>           
+            <li>2- Sumô 3 - 4x 8 à 12</li>       
+            <li>3- Single leg || (Twin) stiff 3 - 4x 8 à 12 | 0 - (4) kg</li>
+            <li>4- Calf Twin 2 - (3)x 40 - (60)</li>    
+            <li>5- Voador dorsal - 2 à 5x 5 à 10</li>
+            <li>6- Pendurar 3 - 4x 20 - 30 seg</li>
             <li>
               Opcional:
-              <ul>
-                <li>7- Calf Twin 2 - 3x 40 - (60)</li>             
-                <li>8- plank (3) à 4x 20 - (30) seg (Resfriado)</li>
+              <ul>                          
+                <li>7- plank (3) à 4x 20 - (30) seg (Resfriado)</li>
               </ul>
             </li>
           </ul>
@@ -89,14 +88,19 @@ export default function Page() {
             <li>1° Girar as pernas (2) - 3x (10) - 12</li>
             <li>2° Alongamento (Full body)</li>
             <li>1- Step up 3 - 4x 15 - (12)</li>
-            <li>2- Single leg || (Twin) stiff 3 - 4x 8 à 12 | 0 - (4) kg</li>
-            <li>3- Calf Twin 2 - (3)x 40 - (60)</li>          
-            <li>4- Plank 3 - (4)x (30) - 45 seg</li>
-            <li>5- Back push up 3 - (4)x (30) - 45 seg</li>
-            <li>6- Pendurar 3 - 4x 20 - 30 seg</li>
+            <li>2- Twin Bíceps 4x12 | 4 - (6) - 8 kg</li>
+            <li>3- Elevação lateral (3) - 4x 8 à 12 | 4 - (6) - 8 kg</li>                   
+            <li>6- Voador dorsal - 2 à 5x 5 à 10</li>
+            <li>7- Pendurar 3 - 4x 20 - 30 seg</li>
             <li>
               3° Liberação miofascial (panturrilha, posterior de coxa, glúteos e
               lombar)
+            </li>
+            <li>
+              Opcional:
+              <ul>
+                <li>7- plank (3) à 4x 20 - (30) seg (Resfriado)</li>
+              </ul>
             </li>
           </ul>
         </li>
