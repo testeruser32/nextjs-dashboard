@@ -42,7 +42,7 @@ export default function Page() {
         <li className="m-10">
           <strong>Segunda:</strong>
           <ul>
-            <li>1° Alongamento (Full body, Hamstring [1 à 5x 15 - 30 seg])</li>
+            <li>1° Alongamento (Full body)</li>
             <li>2°- Treinar língua 4x 30 seg (não tô ligando p/ nada)</li>
             <li>1- Step up 3 - 4x 15 - (12)</li>          
             <li>2- Adultores 3 - (4)x (8) à 12 reps/seg</li>
@@ -64,7 +64,7 @@ export default function Page() {
         <li className="m-10">
           <strong>Quarta:</strong>
           <ul>
-            <li>1° Alongamento (Full body, Hamstring [1 à 5x 15 - 30 seg])</li>
+            <li>1° Alongamento (Full body)</li>
             <li>1- Step up 3 - 4x 15 - (12)</li>           
             <li>2- Sumô 3 - 4x 8 à 12</li>       
             <li>3- Single leg || (Twin) stiff 3 - 4x 8 à 12 | 0 - (4) kg</li>
